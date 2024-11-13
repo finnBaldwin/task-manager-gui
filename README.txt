@@ -16,7 +16,7 @@ Requirements:
 Installation:
 1. Clone the Repository or download the source code:
 
-   git clone https://github.com/finnBaldwin/task-manager-tkinter.git
+   git clone https://github.com/finnBaldwin/task-manager-tkinter-python3.git
    cd task-manager-tkinter
 
 2. Install Python: Ensure you have Python 3.x installed. You can check by running:
