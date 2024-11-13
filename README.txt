@@ -72,9 +72,6 @@ Key Functions:
 - delete_task(): Deletes a selected task from the list.
 - update_task_list(): Updates the Listbox to reflect the current tasks.
 
-Screenshots:
-(Optional: You can add some screenshots of the app's interface here.)
-
 Contributing:
 Feel free to fork this repository and submit pull requests. Contributions are welcome! If you find a bug or have an idea for a new feature, please open an issue.
 
